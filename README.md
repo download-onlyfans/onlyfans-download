@@ -10,7 +10,7 @@ You can download all photos from any onlyfans post simply by selection the targe
 ### Download content from several creators
 You can download contents from serveral crerators at one time.
 
-![Onlyfans downloader](https://ik.imagekit.io/webscraper/Screenshot%202024-01-08%20at%202.14.00%20AM.png?updatedAt=1704660267904)
+![Onlyfans downloader](https://www.hotfansdownload.com/onlyfans-download/onlyfans-download.png)
 
 
 ## Requirements
