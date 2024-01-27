@@ -1,6 +1,9 @@
 # Bulk Onlyfans Downloader
 
-[Onlyfans video downloader (Mass.Downloader)](https://www.hotfansdownload.com/) helps you to download videos and photos from your [onlyfans]([https://onlyfans.com](https://www.hotfansdownload.com/)) account with one-click.
+[Onlyfans video downloader (Mass.Downloader)](https://www.hotfansdownload.com/) helps you to download videos and photos from your [onlyfans](https://www.hotfansdownload.com/) account with one-click.
+
+## Release
+[Release](https://github.com/onlyfans-downloader/onlyfans-download/releases)
 
 ## Features
 ### Download videos from onlyfans creator
